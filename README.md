@@ -1,9 +1,5 @@
 # MongoTaggable
-Extensions for gem https://github.com/mepatterson/acts_as_mongo_taggable with rails 4 and ruby 2.1.1
-
-Inspired by mbleigh's "acts_as_taggable_on," this tagging plugin works with MongoDB+MongoMapper.
-
-Intends to be super-performant by taking advantage of the benefits of document-driven db denormalization.
+  Extensions for gem https://github.com/mepatterson/acts_as_mongo_taggable with rails 4 and ruby 2.1.1
 
 ## Requirements
   MongoDB
